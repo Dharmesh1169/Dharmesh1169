@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Dharmesh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt="coding" width = "400" src = "https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
