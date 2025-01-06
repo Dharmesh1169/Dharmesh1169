@@ -30,9 +30,7 @@
   <a href="https://instagram.com/dharmesh_chauhan_69" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmesh_chauhan_69" height="30" width="40" /> </a>
 </p>
 
-<h3 align="center">My GitHub Stats:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmesh1169&show_icons=true&locale=en&layout=compact" alt="dharmesh1169" height="310" width="310" />
   <img src="https://github-readme-stats.vercel.app/api?username=dharmesh1169&show_icons=true&locale=en" alt="dharmesh1169" height="310" width="310" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmesh1169&" alt="dharmesh1169" height="310" width="310" />
 </div>
